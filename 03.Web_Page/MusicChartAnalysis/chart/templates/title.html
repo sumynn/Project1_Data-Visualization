@@ -7,11 +7,13 @@
 -->
 <html>
 	<head>
-		<title>Generic - Stellar by HTML5 UP</title>
+		<title>Title</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link  rel="stylesheet" href="/static/css/main.css" />
 		<noscript><link rel="stylesheet" href="/static/css/noscript.css" /></noscript>
+		<!-- plotly -->
+		<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 	</head>
 	<body class="is-preload">
 
@@ -29,7 +31,14 @@
 
 						<!-- Content -->
 							<section id="content" class="main">
-								<span class="image main"><img src="/static/images/visualization/title_length.png" alt="" /></span>
+								<span class="image main">
+									<div style="text-align:center" margin-top:30px >
+										<p>제목 길이가 12자 이상인 노래의 차트인 횟수</p>
+										<iframe src="/static/charts/title_length.html" width="700" height="600" frameborder="1" framespacing="0" marginheight="0" marginwidth="0" scrolling="no" vspace="0"></iframe>
+										<iframe src="/static/charts/title_length_month.html" width="700" height="600" frameborder="1" framespacing="0" marginheight="0" marginwidth="0" scrolling="no" vspace="0"></iframe>
+									</div>
+									<!--<img src="/static/images/visualization/title_length.png" alt="" />-->
+								</span>
 								<h2>문장형 제목의 인기, 2019년 전년대비 4.5배 증가</h2>
 								<p>최근에는 어떤 '제목' 트렌드가 노래를 성공시킬까? 차트에서 가장 눈에 띈 것은 길이가 긴 노래 제목이었다.</p>
 								<p>2018년도까지만 해도 차트인을 한 문장형 제목의 노래는 4곡에 불과했다.
@@ -106,8 +115,8 @@
 
 					</div>
 
-
-				<!-- Footer -->
+					<section></br></section>
+				<!-- Footer
 					<footer id="footer">
 						<section>
 							<h2>Aliquam sed mauris</h2>
@@ -135,7 +144,7 @@
 							</ul>
 						</section>
 						<p class="copyright">&copy; Untitled. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
-					</footer>
+					</footer> -->
 
 			</div>
 
