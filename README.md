@@ -6,7 +6,7 @@
 
 <br/>
 
-## 개발 환경
+## 개발 도구
 
 <img src='./readme_img/개발환경.png' width=80%>
 
