@@ -25,7 +25,6 @@
 ## 🛠 기술 스택 및 라이브러리
 
 - Python3
-
 - 데이터 수집
   - BeautifulSoup
   - Selenium
@@ -69,7 +68,7 @@
 
     <img src='https://user-images.githubusercontent.com/87269113/138382258-860c47d2-6aa8-40da-ad1d-f41414c9ba16.png' width='60%'>
 
-    <br>
+<br>
 
 - 데이터 전처리 - 가을 담당
 
