@@ -97,13 +97,13 @@
   
     > [가수 분포 분석 코드](./02.Data_Analysis_Visualization/03.Data_Analysis_Visualization_Singer.ipynb)
   
-    <img src="https://user-images.githubusercontent.com/87269113/155986191-e9fe179b-6c58-4588-9a50-703fc4abb9db.png" alt="image" style="zoom: 80%;" />
+    <img src="https://user-images.githubusercontent.com/87269113/155986191-e9fe179b-6c58-4588-9a50-703fc4abb9db.png" alt="image" style="zoom: 50%;" />
   
   - 제목 길이 분석
   
     > [제목 길이 분석 코드](./02.Data_Analysis_Visualization/04.Data_Analysis_Visualization_title.ipynb)
   
-    <img src="https://user-images.githubusercontent.com/87269113/155986497-aaee214e-a4ff-406a-9627-7b4bfd3c88a3.png" alt="image" style="zoom: 60%;" />
+    <img src="https://user-images.githubusercontent.com/87269113/155986497-aaee214e-a4ff-406a-9627-7b4bfd3c88a3.png" alt="image" style="zoom: 40%;" />
 
 <br>
 
